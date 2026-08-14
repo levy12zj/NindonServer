@@ -1,0 +1,21 @@
+{
+    "id": "katon_goukakyuu",
+    "name": "Katon: Goukakyuu no Jutsu",
+    "type": "projectile",
+    "damage": 30,
+    "chakra_cost": 20,
+    "speed": 500,
+    "lifetime": 3000,
+    "max_distance": 800,
+    "cooldown": 1000,
+    "range": 60,
+    "hit_radius": 40,
+    "pierce": false,
+    "can_hit_owner": false,
+    "projectile_count": 1,
+    "projectile_spread": 0,
+    "metadata": {
+        "element": "katon",
+        "rank": "C"
+    }
+}
