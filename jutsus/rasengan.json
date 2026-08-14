@@ -1,0 +1,29 @@
+{
+    "id": "rasengan",
+    "name": "Rasengan",
+
+    "type": "melee",
+
+    "damage": 50,
+    "chakra_cost": 35,
+
+    "speed": 0,
+    "lifetime": 1000,
+    "max_distance": 120,
+
+    "cooldown": 1500,
+
+    "range": 100,
+    "hit_radius": 60,
+
+    "pierce": false,
+    "can_hit_owner": false,
+
+    "projectile_count": 1,
+    "projectile_spread": 0,
+
+    "metadata": {
+        "element": "none",
+        "rank": "A"
+    }
+}
